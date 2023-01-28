@@ -27,6 +27,8 @@ https://www.youtube.com/watch?v=Rea2AjMgZXA
 
 # 📖 Hello WOrld <a name="about-project"></a>
 
+front end link https://github.com/Kamba56/hello-react
+
 > A clone of buffer
 
 ** Hello world ** is a greeting app
